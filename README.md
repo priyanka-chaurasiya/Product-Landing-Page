@@ -1,5 +1,3 @@
-# Product-Landing-Page
-
 # 🛍️ Product Landing Page
 
 A modern and responsive **Product Landing Page** created using **HTML and CSS**.
